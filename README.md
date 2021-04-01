@@ -1,4 +1,4 @@
-This is a example making [tailwindUI](https://tailwindui.com/components) like [Storybook](https://storybook.js.org/).
+This is an example making [Storybook](https://storybook.js.org/) like [tailwindUI](https://tailwindui.com/components).
 
 # How to use
 
